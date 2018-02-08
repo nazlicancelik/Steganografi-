@@ -1,6 +1,5 @@
 # Steganografi-
 
-![sy](https://user-images.githubusercontent.com/29498981/35960962-db5a3b40-0cbc-11e8-9ef4-650cf0910bbb.PNG)
-
-![s2](https://user-images.githubusercontent.com/29498981/35960964-dbaff5da-0cbc-11e8-89c4-9360c78e7646.PNG)
-![s3](https://user-images.githubusercontent.com/29498981/35960963-db80943e-0cbc-11e8-8624-3cd65c42bd0c.PNG)
+![sy](https://user-images.githubusercontent.com/29498981/35961005-095130c6-0cbd-11e8-970c-c50cce047e26.PNG)
+![s1](https://user-images.githubusercontent.com/29498981/35961006-097a4880-0cbd-11e8-9220-c2f6d44efa48.PNG)
+![s2](https://user-images.githubusercontent.com/29498981/35961007-099e2dd6-0cbd-11e8-963e-f472b9799bb4.PNG)
